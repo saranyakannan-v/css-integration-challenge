@@ -9,11 +9,12 @@ For each interface :
 
 ## Interface 1
 Create the view pixel-perfectly. Make it responsive: the grid should stack on small screens.
-- https://saranyakannan-v.github.io/css-integration-challenge/index.html.
 
 ## Interface 2
 Create the view pixel-perfectly.
 
 ## Interface 3
 Create the view pixel-perfectly.
+## click here to see the result
+- https://saranyakannan-v.github.io/css-integration-challenge/index.html. 
 
