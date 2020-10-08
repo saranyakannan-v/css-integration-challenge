@@ -8,11 +8,11 @@ For each interface :
 - Add the relevant html and css code so that the end result looks exactly as the provided high-fidelity mockup images.
 
 ## Interface 1
-Create this view pixel-perfectly. Make it responsive: the grid should stack on small screens.
+Create the view pixel-perfectly. Make it responsive: the grid should stack on small screens.
 
 ## Interface 2
-Create this view pixel-perfectly.
+Create the view pixel-perfectly.
 
 ## Interface 3
-Create this view pixel-perfectly.
+Create the view pixel-perfectly.
 
