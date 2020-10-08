@@ -1,0 +1,19 @@
+body {
+    margin-top: 2%;
+    font-family: "Open Sans", sans-serif;
+    background-color: #eee;
+}
+
+.card {
+    display: flex;
+}
+
+.card-title {
+    color: green;
+}
+
+.card-group {
+    padding: 0%;
+    margin: 0%;
+    border: 0%;
+}
