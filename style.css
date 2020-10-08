@@ -16,6 +16,95 @@ body {
 }
 
 
+/*interface 2*/
+
+.interface-2 {
+    margin-bottom: 50px;
+    color: white;
+}
+
+.interface-2 .row {
+    padding: 5px;
+    width: 320px;
+    height: 505px;
+    margin: auto;
+    background-color: #f2f2f2;
+    box-sizing: content-box;
+}
+
+.interface-2 .row .box {
+    position: absolute;
+    width: 320px;
+    height: 505px;
+    background-color: #468df1;
+    border-radius: 5px;
+}
+
+.interface-2 .row .box span {
+    color: rgba(248, 246, 246, 0.7);
+    font-size: 11px;
+}
+
+.interface-2 .row .box hr {
+    margin: 0px 20px;
+}
+
+.interface-2 .row .box p,
+.interface-2 .row .box th {
+    margin: 0px;
+    font-size: 13px;
+}
+
+.interface-2 .row .box header {
+    margin: 0px 20px;
+}
+
+.interface-2 .row .box header p {
+    margin-top: 20px;
+}
+
+.interface-2 .row .box header h1 {
+    margin: 15px 0px 35px;
+}
+
+.interface-2 .row .box .section {
+    margin: 0px 20px;
+    text-align: left;
+}
+
+.interface-2 .row .box .section table {
+    width: 100%;
+}
+
+.interface-2 .row .box .section table th {
+    border-bottom: rgba(248, 246, 246, 0.5) solid 0.3px;
+}
+
+.interface-2 .row .box .section table .tac {
+    text-align: center;
+}
+
+.interface-2 .row .box .section table .pb {
+    padding-bottom: 50px;
+}
+
+.interface-2 .row .box footer {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0px 20px;
+}
+
+.interface-2 .row .box footer p {
+    padding: 5px;
+    margin: 5px;
+}
+
+.interface-2 .row .box footer i {
+    padding: 5px;
+    margin-top: 2px;
+}
+
+
 /*interface 3*/
 
 #interface3 .card-title {
