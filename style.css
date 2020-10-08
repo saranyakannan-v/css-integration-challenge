@@ -4,16 +4,54 @@ body {
     background-color: #eee;
 }
 
+
+/*interface 1*/
+
 .card {
     display: flex;
 }
 
-.card-title {
+#interface1 .card-title {
     color: green;
 }
 
-.card-group {
-    padding: 0%;
-    margin: 0%;
-    border: 0%;
+
+/*interface 3*/
+
+#interface3 .card-title {
+    font-weight: bold;
+}
+
+#interface3 p {
+    font-size: 13px;
+    margin-bottom: 0px;
+}
+
+#interface3 .info {
+    height: 50px;
+}
+
+#interface3 .josiah .info span {
+    color: #a8a7a7;
+    font-size: 11px;
+}
+
+.josiah img {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin: 10px;
+    background-color: white;
+}
+
+.josiah p {
+    background-color: white;
+}
+
+#interface3 .row {
+    display: flex;
+}
+
+.card-img {
+    display: flex;
 }
